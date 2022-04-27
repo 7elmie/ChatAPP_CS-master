@@ -1,6 +1,6 @@
 # Client User Interface for Chat Server
 # @Author : 7elmie
-![HomePage](../ChatAPP_ClientServer-master/Pic%20Test/photo_2022-01-29_03-29-50.jpg)
+![HomePage](https://github.com/7elmie/ChatAPP_CS-master/blob/main/photo_2022-01-29_03-29-50.jpg)
 ## Project Information
 Implement an user interface for the chat server. This GUI has IP, port and name input line, and able to broadcast, privatly send, receive, and display messages according to the server protocol of string format.
 ## Environment Requirement
