@@ -35,9 +35,10 @@ python chat_v1.py
 - window expanding space is preferd for message column
 - EMOJI, that is what chat room ask for
 ## Screenshots
-![HomePage](Pic%20Test/2022-04-25%20(9).png)
-![HomePage](Pic%20Test/2022-04-25%20(10).png)
-![HomePage](Pic%20Test/2022-04-25%20(11).png)
+![HomePage](https://github.com/7elmie/ChatAPP_CS-master/blob/main/2022-04-25%20(2).png)
+![HomePage](https://github.com/7elmie/ChatAPP_CS-master/blob/main/2022-04-25%20(9).png)
+![HomePage](https://github.com/7elmie/ChatAPP_CS-master/blob/main/2022-04-25%20(10).png)
+![HomePage](https://github.com/7elmie/ChatAPP_CS-master/blob/main/2022-04-25%20(11).png)
 
 
 "# ChatAPP_CSmaster" 
