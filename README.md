@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/3993)
 
-Developer: <b7elmie</b> <br>
+Developer: <b>7elmie</b> <br>
 Email: w.wasd84@yahoo.com<br>
 LinkedIn: https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/<br>
 Facebook: https://www.facebook.com/HelmyBeh<br>
