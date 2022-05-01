@@ -13,7 +13,7 @@ Developer: <b>7elmie</b> <br>
 Email: w.wasd84@yahoo.com<br>
 LinkedIn: https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/<br>
 Facebook: https://www.facebook.com/HelmyBeh<br>
-Phone: +201096781022 <br>
+Phone:    +201096781022 <br>
 ![HomePage](https://github.com/7elmie/ChatAPP_CS-master/blob/main/photo_2022-01-29_03-29-50.jpg)
 ## Project Information
 Implement an user interface for the chat server. This GUI has IP, port and name input line, and able to broadcast, privatly send, receive, and display messages according to the server protocol of string format.
